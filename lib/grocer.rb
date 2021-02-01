@@ -36,7 +36,6 @@ def consolidate_cart(cart)
   new_cart
 end
 
-end
 
 
   
